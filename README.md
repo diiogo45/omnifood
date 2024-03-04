@@ -7,6 +7,12 @@
 </h4>
 <hr />
 
+### 💻 Tecnologias:
+As seguintes tecnologias foram usadas na construção do projeto:
+- HTML
+- CSS
+- WEB DESIGN
+
 ### 📷 Prints:
 
 #### Mobile:
